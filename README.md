@@ -2,4 +2,4 @@
 ____
 
 #### Тема отбора статей: Python
-[Код](http://sabaka.net) | [Результат](http://sabaka.net)
+[Код](https://github.com/odrimma/Scraping-with-Python/blob/master/main.pyt) | [Результат](https://github.com/odrimma/Scraping-with-Python/blob/master/result.json)
