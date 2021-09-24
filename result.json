@@ -1,0 +1,110 @@
+[
+    {
+        "Автор": "Palachintosh",
+        "Название": "Instagram-бот для улучшения личной жизни",
+        "Ссылка": "https://habr.com/ru/post/579732/",
+        "Тэги": [
+            "https://habr.com/ru/hub/instant_messaging/",
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/api/"
+        ]
+    },
+    {
+        "Автор": "Mojsha",
+        "Название": "Triton: Open Source язык для ядер Deep Learning",
+        "Ссылка": "https://habr.com/ru/company/skillfactory/blog/579380/",
+        "Тэги": [
+            "https://habr.com/ru/company/skillfactory/blog/",
+            "https://habr.com/ru/hub/hi/",
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/programming/",
+            "https://habr.com/ru/hub/machine_learning/"
+        ]
+    },
+    {
+        "Автор": "Konstantin_rnd",
+        "Название": "Как я написал свой ChatOps: опыт выпускника курса по Python",
+        "Ссылка": "https://habr.com/ru/company/southbridge/blog/577662/",
+        "Тэги": [
+            "https://habr.com/ru/company/southbridge/blog/",
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/programming/",
+            "https://habr.com/ru/hub/devops/",
+            "https://habr.com/ru/hub/kubernetes/"
+        ]
+    },
+    {
+        "Автор": "NewTechAudit",
+        "Название": "Готовим нестандартные данные для нейросети",
+        "Ссылка": "https://habr.com/ru/post/579524/",
+        "Тэги": [
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/programming/",
+            "https://habr.com/ru/hub/machine_learning/"
+        ]
+    },
+    {
+        "Автор": "shurik2533",
+        "Название": "Моя клубничная чудо-коробка",
+        "Ссылка": "https://habr.com/ru/post/579478/",
+        "Тэги": [
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/raspberrypi/",
+            "https://habr.com/ru/hub/gadgets/",
+            "https://habr.com/ru/hub/DIY/",
+            "https://habr.com/ru/hub/biology/"
+        ]
+    },
+    {
+        "Автор": "dirijabla",
+        "Название": "Объем, центр масс, моменты инерции тела имея только mesh поверхности",
+        "Ссылка": "https://habr.com/ru/post/579364/",
+        "Тэги": [
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/cad_cam/",
+            "https://habr.com/ru/hub/maths/"
+        ]
+    },
+    {
+        "Автор": "zxgame",
+        "Название": "Помощник – «решатель филвордов» на python (алгоритм поиска слов плюс распознавание текста tesseract)",
+        "Ссылка": "https://habr.com/ru/post/579432/",
+        "Тэги": [
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/programming/"
+        ]
+    },
+    {
+        "Автор": "adbakulev",
+        "Название": "Первые шаги с aiohttp: часть 2. Подключаем базу данных к приложению",
+        "Ссылка": "https://habr.com/ru/company/kts/blog/579214/",
+        "Тэги": [
+            "https://habr.com/ru/company/kts/blog/",
+            "https://habr.com/ru/hub/webdev/",
+            "https://habr.com/ru/hub/python/"
+        ]
+    },
+    {
+        "Автор": "X5RetailGroup",
+        "Название": "Построение архитектуры проекта при работе с PySpark",
+        "Ссылка": "https://habr.com/ru/company/X5Group/blog/579232/",
+        "Тэги": [
+            "https://habr.com/ru/company/X5Group/blog/",
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/analysis_design/",
+            "https://habr.com/ru/hub/bigdata/",
+            "https://habr.com/ru/hub/data_engineering/"
+        ]
+    },
+    {
+        "Автор": "mohovkm",
+        "Название": "Создаём анимационные обучающие видео на Python с помощью Manim",
+        "Ссылка": "https://habr.com/ru/company/yandex_praktikum/blog/578910/",
+        "Тэги": [
+            "https://habr.com/ru/company/yandex_praktikum/blog/",
+            "https://habr.com/ru/hub/video/",
+            "https://habr.com/ru/hub/python/",
+            "https://habr.com/ru/hub/animation/"
+        ]
+    }
+]
